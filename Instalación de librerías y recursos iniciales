@@ -1,0 +1,1 @@
+!pip install nltk pandas unidecode vaderSentiment scikit-learn transformers sentence-transformers keybert umap-learn hdbscan matplotlib seaborn xlsxwriter openpyxl customtkinter
